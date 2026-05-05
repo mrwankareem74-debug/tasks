@@ -7,7 +7,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="task p1" expanded="True">
+          <Node name="task p1">
             <Node name="task p1" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
